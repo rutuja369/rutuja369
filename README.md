@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutuja Khilare</h1>
-<h3 align="center">Flutter Developer, Competitive programmer and Linux Enthusiast</h3>
+<h3 align="center">Flutter Developer, Linux Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja369&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja369" /> </p>
 
-- 🌱 I’m currently learning **Docker, MySQL and also working on improving my programming skills**
+- 🌱 I’m currently learning **Flutter Development, MySQL and also working on improving my problem solving skills**
 
 - 💬 Talk to me about **Astronomy**
 
