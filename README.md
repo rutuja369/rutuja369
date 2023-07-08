@@ -13,7 +13,7 @@
 <img 
   width="300" 
   align="right"
-  src="https://github.com/rutuja369/rutuja369/blob/master/devcard.svg" 
+  src="https://github.com/rutuja369/rutuja369/blob/main/devcard.svg" 
   />
 </a>
 
